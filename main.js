@@ -102,6 +102,9 @@ define(function(require, exports, module) {
                 case 'bootstrap-3':
                     template = require('text!html/bootstrap-3.html');
                     break;
+                case 'bootstrap-4':
+                    template = require('text!html/bootstrap-4.html');
+                    break;
                 case 'materialize-0-95-1':
                     template = require('text!html/materialize-0-95-1.html');
                     break;
