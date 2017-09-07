@@ -1,12 +1,12 @@
 {
-    "name": "talmand.html-templates",
-    "title": "HTML Templates",
+    "name": "rsgranne.html-templates",
+    "title": "HTML Templates, Updated",
     "description": "Inserts HTML from a pre-made list of templates.",
-    "homepage": "https://github.com/talmand/Brackets-HTML-Templates",
+    "homepage": "https://github.com/rsgranne/Brackets-HTML-Templates",
     "version": "1.3.5",
-    "author": "Travis Almand",
+    "author": "Scott Granneman (forked from Travis Almand)",
     "i18n": [
-        "en", 
+        "en",
         "it",
         "es",
         "de",
